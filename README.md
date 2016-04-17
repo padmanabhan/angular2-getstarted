@@ -1,5 +1,5 @@
 
-1) Install node.
+1) Install nodejs.
 
 2) Open a command prompt in the project's root directory (APM)
 
