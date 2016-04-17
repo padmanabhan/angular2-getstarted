@@ -1,7 +1,7 @@
 
 1) Install nodejs.
 
-2) Open a command prompt in the project's root directory (APM)
+2) Open a command prompt in the project's root directory.
 
 3) Type: `npm install`
     This installs the dependencies as defined in the package.json file.
